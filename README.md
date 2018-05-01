@@ -10,5 +10,5 @@ var map = new mapboxgl.Map({
     style: 'mapbox://styles/mapbox/streets-v9'
 });
 
-new twoFingerMapboxPan(map)
+twoFingerMapboxPan(map)
 ```
